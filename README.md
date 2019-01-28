@@ -1,1 +1,2 @@
-# YangCV
+# YangResume
+My resume repository
